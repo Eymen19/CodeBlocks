@@ -1,2 +1,2 @@
 # CodeBlocks
-DENEYAP
+DENEYAP PROJELERİM
